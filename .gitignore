@@ -97,3 +97,36 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider/VSCode
+.vscode/
+.idea/
+
+# Addressables/Cache（任意）
+/ServerData/
+*.addressables
+
+# If using Packages via Git submodules, keep Packages/manifest.json tracked!
+# Keep: Assets/, Packages/, ProjectSettings/, .gitignore
+
